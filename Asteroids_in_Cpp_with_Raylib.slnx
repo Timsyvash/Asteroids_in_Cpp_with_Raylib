@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Asteroids_in_Cpp_with_Raylib/Asteroids_in_Cpp_with_Raylib.vcxproj" Id="b7f05e4a-c6a8-4859-afc9-ccb728df8689" />
+</Solution>
